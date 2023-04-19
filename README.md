@@ -1,3 +1,17 @@
+# Movie-Back
+
+## Description
+
+This project is an API developed with NestJS that consumes the OMDB external movie API and makes processed data available for the front end to consume.
+ 
+## Technologies
+
+NestJS
+Axios
+RxJS
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
